@@ -1,0 +1,1323 @@
+{
+    "https://www.verizon.com/": [],
+    "https://www.verizon.com/accessibility": [
+        "accessibility"
+    ],
+    "https://www.verizon.com/business/": [
+        "business"
+    ],
+    "https://www.verizon.com/stores/": [
+        "stores"
+    ],
+    "https://www.verizon.com/shop/": [
+        "shop"
+    ],
+    "https://www.verizon.com/deals/": [
+        "deals"
+    ],
+    "https://www.verizon.com/deals/smartphones/": [
+        "deals",
+        "smartphones"
+    ],
+    "https://www.verizon.com/home/internet/fios-fastest-internet/bundles/": [
+        "home",
+        "internet",
+        "fios-fastest-internet",
+        "bundles",
+        "fios",
+        "fastest",
+        "internet"
+    ],
+    "https://www.verizon.com/bring-your-own-device/": [
+        "bring-your-own-device",
+        "bring",
+        "your",
+        "own",
+        "device"
+    ],
+    "https://www.verizon.com/deals/products/": [
+        "deals",
+        "products"
+    ],
+    "https://www.verizon.com/referafriend/": [
+        "referafriend"
+    ],
+    "https://www.verizon.com/smartphones/": [
+        "smartphones"
+    ],
+    "https://www.verizon.com/5g/phones/": [
+        "5g",
+        "phones"
+    ],
+    "https://www.verizon.com/smartphones/apple-iphone-15-pro/": [
+        "smartphones",
+        "apple-iphone-15-pro",
+        "apple",
+        "iphone",
+        "15",
+        "pro"
+    ],
+    "https://www.verizon.com/smartphones/apple-iphone-15/": [
+        "smartphones",
+        "apple-iphone-15",
+        "apple",
+        "iphone",
+        "15"
+    ],
+    "https://www.verizon.com/smartphones/samsung-galaxy-s23-ultra/": [
+        "smartphones",
+        "samsung-galaxy-s23-ultra",
+        "samsung",
+        "galaxy",
+        "s23",
+        "ultra"
+    ],
+    "https://www.verizon.com/smartphones/google-pixel-8-pro/": [
+        "smartphones",
+        "google-pixel-8-pro",
+        "google",
+        "pixel",
+        "8",
+        "pro"
+    ],
+    "https://www.verizon.com/featured/shop-phones-devices/": [
+        "featured",
+        "shop-phones-devices",
+        "shop",
+        "phones",
+        "devices"
+    ],
+    "https://www.verizon.com/trade-in/": [
+        "trade-in",
+        "trade",
+        "in"
+    ],
+    "https://www.verizon.com/connected-smartwatches/": [
+        "connected-smartwatches",
+        "connected",
+        "smartwatches"
+    ],
+    "https://www.verizon.com/products/": [
+        "products"
+    ],
+    "https://www.verizon.com/phone-tablet-accessories/": [
+        "phone-tablet-accessories",
+        "phone",
+        "tablet",
+        "accessories"
+    ],
+    "https://www.verizon.com/batteries-and-chargers/": [
+        "batteries-and-chargers",
+        "batteries",
+        "and",
+        "chargers"
+    ],
+    "https://www.verizon.com/audio/": [
+        "audio"
+    ],
+    "https://www.verizon.com/gaming/gaming-store/": [
+        "gaming",
+        "gaming-store",
+        "gaming",
+        "store"
+    ],
+    "https://www.verizon.com/smart-home/": [
+        "smart-home",
+        "smart",
+        "home"
+    ],
+    "https://www.verizon.com/plans/": [
+        "plans"
+    ],
+    "https://www.verizon.com/plans/unlimited/": [
+        "plans",
+        "unlimited"
+    ],
+    "https://www.verizon.com/plans/international/": [
+        "plans",
+        "international"
+    ],
+    "https://www.verizon.com/plans/devices/": [
+        "plans",
+        "devices"
+    ],
+    "https://www.verizon.com/featured/giving-more/": [
+        "featured",
+        "giving-more",
+        "giving",
+        "more"
+    ],
+    "https://www.verizon.com/featured/teachers/": [
+        "featured",
+        "teachers"
+    ],
+    "https://www.verizon.com/featured/nurses/": [
+        "featured",
+        "nurses"
+    ],
+    "https://www.verizon.com/featured/first-responders/": [
+        "featured",
+        "first-responders",
+        "first",
+        "responders"
+    ],
+    "https://www.verizon.com/military/": [
+        "military"
+    ],
+    "https://www.verizon.com/featured/students/": [
+        "featured",
+        "students"
+    ],
+    "https://www.verizon.com/plans/devices/connected-cars": [
+        "plans",
+        "devices",
+        "connected-cars",
+        "connected",
+        "cars"
+    ],
+    "https://www.verizon.com/discounts/": [
+        "discounts"
+    ],
+    "https://www.verizon.com/home/internet/": [
+        "home",
+        "internet"
+    ],
+    "https://www.verizon.com/home/internet/fios-fastest-internet/": [
+        "home",
+        "internet",
+        "fios-fastest-internet",
+        "fios",
+        "fastest",
+        "internet"
+    ],
+    "https://www.verizon.com/home/internet/5g/": [
+        "home",
+        "internet",
+        "5g"
+    ],
+    "https://www.verizon.com/home/internet/lte/": [
+        "home",
+        "internet",
+        "lte"
+    ],
+    "https://www.verizon.com/home/fios-tv/": [
+        "home",
+        "fios-tv",
+        "fios",
+        "tv"
+    ],
+    "https://www.verizon.com/home/internet/moving/": [
+        "home",
+        "internet",
+        "moving"
+    ],
+    "https://www.verizon.com/home/accessories/": [
+        "home",
+        "accessories"
+    ],
+    "https://www.verizon.com/home/accessories/all-accessories/": [
+        "home",
+        "accessories",
+        "all-accessories",
+        "all",
+        "accessories"
+    ],
+    "https://www.verizon.com/home/accessories/cables-connectors/": [
+        "home",
+        "accessories",
+        "cables-connectors",
+        "cables",
+        "connectors"
+    ],
+    "https://www.verizon.com/home/accessories/networking-wifi/": [
+        "home",
+        "accessories",
+        "networking-wifi",
+        "networking",
+        "wifi"
+    ],
+    "https://www.verizon.com/home/accessories/remote-controls/": [
+        "home",
+        "accessories",
+        "remote-controls",
+        "remote",
+        "controls"
+    ],
+    "https://www.verizon.com/home/accessories/phone-equipment/": [
+        "home",
+        "accessories",
+        "phone-equipment",
+        "phone",
+        "equipment"
+    ],
+    "https://www.verizon.com/home/internet/acp/free-internet/": [
+        "home",
+        "internet",
+        "acp",
+        "free-internet",
+        "free",
+        "internet"
+    ],
+    "https://www.verizon.com/prepaid/": [
+        "prepaid"
+    ],
+    "https://www.verizon.com/plans/prepaid/": [
+        "plans",
+        "prepaid"
+    ],
+    "https://www.verizon.com/prepaid/data-only-plans/": [
+        "prepaid",
+        "data-only-plans",
+        "data",
+        "only",
+        "plans"
+    ],
+    "https://www.verizon.com/plans/prepaid/international/": [
+        "plans",
+        "prepaid",
+        "international"
+    ],
+    "https://www.verizon.com/smartphones/prepaid/": [
+        "smartphones",
+        "prepaid"
+    ],
+    "https://www.verizon.com/bring-your-own-device/activate": [
+        "bring-your-own-device",
+        "activate",
+        "bring",
+        "your",
+        "own",
+        "device"
+    ],
+    "https://www.verizon.com/basic-phones/prepaid/": [
+        "basic-phones",
+        "prepaid",
+        "basic",
+        "phones"
+    ],
+    "https://www.verizon.com/tablets/prepaid/": [
+        "tablets",
+        "prepaid"
+    ],
+    "https://www.verizon.com/internet-devices/prepaid/": [
+        "internet-devices",
+        "prepaid",
+        "internet",
+        "devices"
+    ],
+    "https://www.verizon.com/deals/prepaid/": [
+        "deals",
+        "prepaid"
+    ],
+    "https://www.verizon.com/prepaid/affordable-connectivity-program": [
+        "prepaid",
+        "affordable-connectivity-program",
+        "affordable",
+        "connectivity",
+        "program"
+    ],
+    "https://www.verizon.com/featured/prepaid/why-verizon/": [
+        "featured",
+        "prepaid",
+        "why-verizon",
+        "why",
+        "verizon"
+    ],
+    "https://www.verizon.com/solutions-and-services/disneyplus/": [
+        "solutions-and-services",
+        "disneyplus",
+        "solutions",
+        "and",
+        "services"
+    ],
+    "https://www.verizon.com/solutions-and-services/add-ons/entertainment/discovery-plus/": [
+        "solutions-and-services",
+        "add-ons",
+        "entertainment",
+        "discovery-plus",
+        "solutions",
+        "and",
+        "services",
+        "add",
+        "ons",
+        "discovery",
+        "plus"
+    ],
+    "https://www.verizon.com/solutions-and-services/add-ons/entertainment/apple-arcade/": [
+        "solutions-and-services",
+        "add-ons",
+        "entertainment",
+        "apple-arcade",
+        "solutions",
+        "and",
+        "services",
+        "add",
+        "ons",
+        "apple",
+        "arcade"
+    ],
+    "https://www.verizon.com/solutions-and-services/add-ons/entertainment/google-play-pass": [
+        "solutions-and-services",
+        "add-ons",
+        "entertainment",
+        "google-play-pass",
+        "solutions",
+        "and",
+        "services",
+        "add",
+        "ons",
+        "google",
+        "play",
+        "pass"
+    ],
+    "https://www.verizon.com/solutions-and-services/add-ons/entertainment/apple-music/": [
+        "solutions-and-services",
+        "add-ons",
+        "entertainment",
+        "apple-music",
+        "solutions",
+        "and",
+        "services",
+        "add",
+        "ons",
+        "apple",
+        "music"
+    ],
+    "https://www.verizon.com/gaming/": [
+        "gaming"
+    ],
+    "https://www.verizon.com/gaming/xbox-all-access/": [
+        "gaming",
+        "xbox-all-access",
+        "xbox",
+        "all",
+        "access"
+    ],
+    "https://www.verizon.com/solutions-and-services/apps/youtube-tv/": [
+        "solutions-and-services",
+        "apps",
+        "youtube-tv",
+        "solutions",
+        "and",
+        "services",
+        "youtube",
+        "tv"
+    ],
+    "https://www.verizon.com/solutions-and-services/add-ons/": [
+        "solutions-and-services",
+        "add-ons",
+        "solutions",
+        "and",
+        "services",
+        "add",
+        "ons"
+    ],
+    "https://www.verizon.com/solutions-and-services/add-ons/protection-and-security/": [
+        "solutions-and-services",
+        "add-ons",
+        "protection-and-security",
+        "solutions",
+        "and",
+        "services",
+        "add",
+        "ons",
+        "protection",
+        "and",
+        "security"
+    ],
+    "https://www.verizon.com/solutions-and-services/add-ons/safety/": [
+        "solutions-and-services",
+        "add-ons",
+        "safety",
+        "solutions",
+        "and",
+        "services",
+        "add",
+        "ons"
+    ],
+    "https://www.verizon.com/solutions-and-services/add-ons/mobile/": [
+        "solutions-and-services",
+        "add-ons",
+        "mobile",
+        "solutions",
+        "and",
+        "services",
+        "add",
+        "ons"
+    ],
+    "https://www.verizon.com/solutions-and-services/add-ons/financial-services/": [
+        "solutions-and-services",
+        "add-ons",
+        "financial-services",
+        "solutions",
+        "and",
+        "services",
+        "add",
+        "ons",
+        "financial",
+        "services"
+    ],
+    "https://www.verizon.com/business/solutions/small-business/?cmp=vcgref:vcg_nav_shop_business": [
+        "business",
+        "solutions",
+        "small-business",
+        "?cmp=vcgref:vcg_nav_shop_business",
+        "small",
+        "business"
+    ],
+    "https://www.verizon.com/5g/": [
+        "5g"
+    ],
+    "https://www.verizon.com/coverage-map/": [
+        "coverage-map",
+        "coverage",
+        "map"
+    ],
+    "https://www.verizon.com/about/our-company/innovation-labs": [
+        "about",
+        "our-company",
+        "innovation-labs",
+        "our",
+        "company",
+        "innovation",
+        "labs"
+    ],
+    "https://www.verizon.com/home/internet/fios/": [
+        "home",
+        "internet",
+        "fios"
+    ],
+    "https://www.verizon.com/featured/verizon-up/": [
+        "featured",
+        "verizon-up",
+        "verizon",
+        "up"
+    ],
+    "https://www.verizon.com/solutions-and-services/verizon-visa-card/?origin=gnavHeader": [
+        "solutions-and-services",
+        "verizon-visa-card",
+        "?origin=gnavHeader",
+        "solutions",
+        "and",
+        "services",
+        "verizon",
+        "visa",
+        "card"
+    ],
+    "https://www.verizon.com/solutions-and-services/insurance-and-repair/insurance/": [
+        "solutions-and-services",
+        "insurance-and-repair",
+        "insurance",
+        "solutions",
+        "and",
+        "services",
+        "insurance",
+        "and",
+        "repair"
+    ],
+    "https://www.verizon.com/solutions-and-services/add-ons/protection-and-security/verizon-cloud/": [
+        "solutions-and-services",
+        "add-ons",
+        "protection-and-security",
+        "verizon-cloud",
+        "solutions",
+        "and",
+        "services",
+        "add",
+        "ons",
+        "protection",
+        "and",
+        "security",
+        "verizon",
+        "cloud"
+    ],
+    "https://www.verizon.com/solutions-and-services/hoyhealth/": [
+        "solutions-and-services",
+        "hoyhealth",
+        "solutions",
+        "and",
+        "services"
+    ],
+    "https://www.verizon.com/about/responsibility": [
+        "about",
+        "responsibility"
+    ],
+    "https://www.verizon.com/about/privacy/": [
+        "about",
+        "privacy"
+    ],
+    "https://www.verizon.com/support/billing-and-payments/": [
+        "support",
+        "billing-and-payments",
+        "billing",
+        "and",
+        "payments"
+    ],
+    "https://www.verizon.com/support/account-management/": [
+        "support",
+        "account-management",
+        "account",
+        "management"
+    ],
+    "https://www.verizon.com/support/devices/": [
+        "support",
+        "devices"
+    ],
+    "https://www.verizon.com/support/services-and-apps/": [
+        "support",
+        "services-and-apps",
+        "services",
+        "and",
+        "apps"
+    ],
+    "https://www.verizon.com/plans/international/international-travel/trip-planner-tool/": [
+        "plans",
+        "international",
+        "international-travel",
+        "trip-planner-tool",
+        "international",
+        "travel",
+        "trip",
+        "planner",
+        "tool"
+    ],
+    "https://www.verizon.com/solutions-and-services/my-verizon-mobile/": [
+        "solutions-and-services",
+        "my-verizon-mobile",
+        "solutions",
+        "and",
+        "services",
+        "my",
+        "verizon",
+        "mobile"
+    ],
+    "https://www.verizon.com/support/residential/home/": [
+        "support",
+        "residential",
+        "home"
+    ],
+    "https://www.verizon.com/support/residential/account/": [
+        "support",
+        "residential",
+        "account"
+    ],
+    "https://www.verizon.com/support/residential/internet/": [
+        "support",
+        "residential",
+        "internet"
+    ],
+    "https://www.verizon.com/support/residential/tv/": [
+        "support",
+        "residential",
+        "tv"
+    ],
+    "https://www.verizon.com/support/residential/homephone/": [
+        "support",
+        "residential",
+        "homephone"
+    ],
+    "https://www.verizon.com/support/5g-home-internet/": [
+        "support",
+        "5g-home-internet",
+        "5g",
+        "home",
+        "internet"
+    ],
+    "https://www.verizon.com/support/4g-lte-home-internet/": [
+        "support",
+        "4g-lte-home-internet",
+        "4g",
+        "lte",
+        "home",
+        "internet"
+    ],
+    "https://www.verizon.com/speedtest/": [
+        "speedtest"
+    ],
+    "https://www.verizon.com/support/residential/account/manage-service/order-status/": [
+        "support",
+        "residential",
+        "account",
+        "manage-service",
+        "order-status",
+        "manage",
+        "service",
+        "order",
+        "status"
+    ],
+    "https://www.verizon.com/business/support/?cmp=int:int:aw:smb:my_business:nav_business_support": [
+        "business",
+        "support",
+        "?cmp=int:int:aw:smb:my_business:nav_business_support"
+    ],
+    "https://www.verizon.com/inhome/resumecart?xpssource=learn&amp;gnavOffSearchFlag=true": [
+        "inhome",
+        "resumecart?xpssource=learn&amp;gnavOffSearchFlag=true"
+    ],
+    "https://www.verizon.com/smartphones/apple/?condition=new&amp;sort=best-sellers": [
+        "smartphones",
+        "apple",
+        "?condition=new&amp;sort=best-sellers",
+        "?condition=new&amp;sort=best",
+        "sellers"
+    ],
+    "https://www.verizon.com/smartphones/apple-iphone-14-pro/": [
+        "smartphones",
+        "apple-iphone-14-pro",
+        "apple",
+        "iphone",
+        "14",
+        "pro"
+    ],
+    "https://www.verizon.com/plans/free-trial/": [
+        "plans",
+        "free-trial",
+        "free",
+        "trial"
+    ],
+    "https://www.verizon.com/solutions-and-services/verizon-visa-card/": [
+        "solutions-and-services",
+        "verizon-visa-card",
+        "solutions",
+        "and",
+        "services",
+        "verizon",
+        "visa",
+        "card"
+    ],
+    "https://www.verizon.com/plans/unlimited/gig": [
+        "plans",
+        "unlimited",
+        "gig"
+    ],
+    "https://www.verizon.com/products/discount-bundle-eligible/": [
+        "products",
+        "discount-bundle-eligible",
+        "discount",
+        "bundle",
+        "eligible"
+    ],
+    "https://www.verizon.com/wireless-devices/samsung/": [
+        "wireless-devices",
+        "samsung",
+        "wireless",
+        "devices"
+    ],
+    "https://www.verizon.com/wireless-devices/smartphones/iphone/": [
+        "wireless-devices",
+        "smartphones",
+        "iphone",
+        "wireless",
+        "devices"
+    ],
+    "https://www.verizon.com/wireless-devices/smartphones/motorola/": [
+        "wireless-devices",
+        "smartphones",
+        "motorola",
+        "wireless",
+        "devices"
+    ],
+    "https://www.verizon.com/wireless-devices/smartphones/google/": [
+        "wireless-devices",
+        "smartphones",
+        "google",
+        "wireless",
+        "devices"
+    ],
+    "https://www.verizon.com/wireless-devices/amazon/": [
+        "wireless-devices",
+        "amazon",
+        "wireless",
+        "devices"
+    ],
+    "https://www.verizon.com/support/return-policy/": [
+        "support",
+        "return-policy",
+        "return",
+        "policy"
+    ],
+    "https://www.verizon.com/support/lifeline/": [
+        "support",
+        "lifeline"
+    ],
+    "https://www.verizon.com/accessibility/": [
+        "accessibility"
+    ],
+    "https://www.verizon.com/support/check-network-status/": [
+        "support",
+        "check-network-status",
+        "check",
+        "network",
+        "status"
+    ],
+    "https://www.verizon.com/about": [
+        "about"
+    ],
+    "https://www.verizon.com/about/news-center": [
+        "about",
+        "news-center",
+        "news",
+        "center"
+    ],
+    "https://www.verizon.com/about/responsibility/digital-inclusion/verizon-innovative-learning": [
+        "about",
+        "responsibility",
+        "digital-inclusion",
+        "verizon-innovative-learning",
+        "digital",
+        "inclusion",
+        "verizon",
+        "innovative",
+        "learning"
+    ],
+    "https://www.verizon.com/info/sitemap/": [
+        "info",
+        "sitemap"
+    ],
+    "https://www.verizon.com/articles/": [
+        "articles"
+    ],
+    "https://www.verizon.com/support/collateraldownload/": [
+        "support",
+        "collateraldownload"
+    ],
+    "https://www.verizon.com/smartphones/apple-iphone-15-pro-max/": [
+        "smartphones",
+        "apple-iphone-15-pro-max",
+        "apple",
+        "iphone",
+        "15",
+        "pro",
+        "max"
+    ],
+    "https://www.verizon.com/smartphones/apple-iphone-15-plus/": [
+        "smartphones",
+        "apple-iphone-15-plus",
+        "apple",
+        "iphone",
+        "15",
+        "plus"
+    ],
+    "https://www.verizon.com/connected-smartwatches/apple-watch-series-9/": [
+        "connected-smartwatches",
+        "apple-watch-series-9",
+        "connected",
+        "smartwatches",
+        "apple",
+        "watch",
+        "series",
+        "9"
+    ],
+    "https://www.verizon.com/solutions-and-services/verizon-visa-card/?origin=gnavFooter": [
+        "solutions-and-services",
+        "verizon-visa-card",
+        "?origin=gnavFooter",
+        "solutions",
+        "and",
+        "services",
+        "verizon",
+        "visa",
+        "card"
+    ],
+    "https://www.verizon.com/about/terms-conditions/overview": [
+        "about",
+        "terms-conditions",
+        "overview",
+        "terms",
+        "conditions"
+    ],
+    "https://www.verizon.com/solutions-and-services/report-security-vulnerability/": [
+        "solutions-and-services",
+        "report-security-vulnerability",
+        "solutions",
+        "and",
+        "services",
+        "report",
+        "security",
+        "vulnerability"
+    ],
+    "https://www.verizon.com/support/customer-agreement/": [
+        "support",
+        "customer-agreement",
+        "customer",
+        "agreement"
+    ],
+    "https://www.verizon.com/support/residential/announcements/": [
+        "support",
+        "residential",
+        "announcements"
+    ],
+    "https://www.verizon.com/support/radio-emissions/": [
+        "support",
+        "radio-emissions",
+        "radio",
+        "emissions"
+    ],
+    "https://www.verizon.com/support/surcharges/": [
+        "support",
+        "surcharges"
+    ],
+    "https://www.verizon.com/featured/jetpack-recall": [
+        "featured",
+        "jetpack-recall",
+        "jetpack",
+        "recall"
+    ],
+    "https://www.verizon.com/support/legal-notices/": [
+        "support",
+        "legal-notices",
+        "legal",
+        "notices"
+    ],
+    "https://www.verizon.com/about/privacy/full-privacy-policy?scrollto=index-1": [
+        "about",
+        "privacy",
+        "full-privacy-policy?scrollto=index-1",
+        "full",
+        "privacy",
+        "policy?scrollto=index",
+        "1"
+    ],
+    "https://www.verizon.com/about/our-company/open-internet": [
+        "about",
+        "our-company",
+        "open-internet",
+        "our",
+        "company",
+        "open",
+        "internet"
+    ],
+    "https://www.verizon.com/about/privacy/about-our-ads": [
+        "about",
+        "privacy",
+        "about-our-ads",
+        "about",
+        "our",
+        "ads"
+    ],
+    "https://www.verizon.com/about/accessibility/vision": [
+        "about",
+        "accessibility",
+        "vision"
+    ],
+    "https://www.verizon.com/about/accessibility/hearing": [
+        "about",
+        "accessibility",
+        "hearing"
+    ],
+    "https://www.verizon.com/about/accessibility/cognitive": [
+        "about",
+        "accessibility",
+        "cognitive"
+    ],
+    "https://www.verizon.com/about/accessibility/mobility": [
+        "about",
+        "accessibility",
+        "mobility"
+    ],
+    "https://www.verizon.com/about/accessibility/aging": [
+        "about",
+        "accessibility",
+        "aging"
+    ],
+    "https://www.verizon.com/about/accessibility/neurodiverse": [
+        "about",
+        "accessibility",
+        "neurodiverse"
+    ],
+    "https://www.verizon.com/about/accessibility/resources-support": [
+        "about",
+        "accessibility",
+        "resources-support",
+        "resources",
+        "support"
+    ],
+    "https://www.verizon.com/business/contact-us/": [
+        "business",
+        "contact-us",
+        "contact",
+        "us"
+    ],
+    "https://www.verizon.com/business/products/devices/smartphones/apple-iphone-15-pro": [
+        "business",
+        "products",
+        "devices",
+        "smartphones",
+        "apple-iphone-15-pro",
+        "apple",
+        "iphone",
+        "15",
+        "pro"
+    ],
+    "https://www.verizon.com/business/products/plans/business-unlimited/": [
+        "business",
+        "products",
+        "plans",
+        "business-unlimited",
+        "business",
+        "unlimited"
+    ],
+    "https://www.verizon.com/business/shop/products/devices/smartphones/": [
+        "business",
+        "shop",
+        "products",
+        "devices",
+        "smartphones"
+    ],
+    "https://www.verizon.com/business/products/networks/connectivity/5g-business-internet/": [
+        "business",
+        "products",
+        "networks",
+        "connectivity",
+        "5g-business-internet",
+        "5g",
+        "business",
+        "internet"
+    ],
+    "https://www.verizon.com/foryoursmallbiz/gborder/customize-order": [
+        "foryoursmallbiz",
+        "gborder",
+        "customize-order",
+        "customize",
+        "order"
+    ],
+    "https://www.verizon.com/foryoursmallbiz/gborder/": [
+        "foryoursmallbiz",
+        "gborder"
+    ],
+    "https://www.verizon.com/foryoursmallbiz/gborder": [
+        "foryoursmallbiz",
+        "gborder"
+    ],
+    "https://www.verizon.com/business/shop/products/devices/smartphones/byod": [
+        "business",
+        "shop",
+        "products",
+        "devices",
+        "smartphones",
+        "byod"
+    ],
+    "https://www.verizon.com/business/solutions/": [
+        "business",
+        "solutions"
+    ],
+    "https://www.verizon.com/business/solutions/small-business/": [
+        "business",
+        "solutions",
+        "small-business",
+        "small",
+        "business"
+    ],
+    "https://www.verizon.com/business/solutions/enterprise/": [
+        "business",
+        "solutions",
+        "enterprise"
+    ],
+    "https://www.verizon.com/business/solutions/public-sector/": [
+        "business",
+        "solutions",
+        "public-sector",
+        "public",
+        "sector"
+    ],
+    "https://www.verizon.com/business/verizonpartnersolutions/": [
+        "business",
+        "verizonpartnersolutions"
+    ],
+    "https://www.verizon.com/business/products/": [
+        "business",
+        "products"
+    ],
+    "https://www.verizon.com/business/products/internet/": [
+        "business",
+        "products",
+        "internet"
+    ],
+    "https://www.verizon.com/business/shop/products/devices/5g/smartphones": [
+        "business",
+        "shop",
+        "products",
+        "devices",
+        "5g",
+        "smartphones"
+    ],
+    "https://www.verizon.com/business/solutions/5g/edge-computing/": [
+        "business",
+        "solutions",
+        "5g",
+        "edge-computing",
+        "edge",
+        "computing"
+    ],
+    "https://www.verizon.com/business/why-verizon/": [
+        "business",
+        "why-verizon",
+        "why",
+        "verizon"
+    ],
+    "https://www.verizon.com/business/resources/customer-success-stories/nfl-stadium-wireless-communication-network/": [
+        "business",
+        "resources",
+        "customer-success-stories",
+        "nfl-stadium-wireless-communication-network",
+        "customer",
+        "success",
+        "stories",
+        "nfl",
+        "stadium",
+        "wireless",
+        "communication",
+        "network"
+    ],
+    "https://www.verizon.com/business/resources/lp/enterprise-business-intelligence/": [
+        "business",
+        "resources",
+        "lp",
+        "enterprise-business-intelligence",
+        "enterprise",
+        "business",
+        "intelligence"
+    ],
+    "https://www.verizon.com/business/products/voice-collaboration/collaboration-platforms/unified-mobile-for-microsoft-teams/": [
+        "business",
+        "products",
+        "voice-collaboration",
+        "collaboration-platforms",
+        "unified-mobile-for-microsoft-teams",
+        "voice",
+        "collaboration",
+        "collaboration",
+        "platforms",
+        "unified",
+        "mobile",
+        "for",
+        "microsoft",
+        "teams"
+    ],
+    "https://www.verizon.com/business/resources/reports/dbir/": [
+        "business",
+        "resources",
+        "reports",
+        "dbir"
+    ],
+    "https://www.verizon.com/business/solutions/public-sector/public-safety/": [
+        "business",
+        "solutions",
+        "public-sector",
+        "public-safety",
+        "public",
+        "sector",
+        "public",
+        "safety"
+    ],
+    "https://www.verizon.com/business/resources/reports/mobile-security-index/": [
+        "business",
+        "resources",
+        "reports",
+        "mobile-security-index",
+        "mobile",
+        "security",
+        "index"
+    ],
+    "https://www.verizon.com/business/resources/customer-success-stories/": [
+        "business",
+        "resources",
+        "customer-success-stories",
+        "customer",
+        "success",
+        "stories"
+    ],
+    "https://www.verizon.com/business/solutions/public-sector/digital-transformation/": [
+        "business",
+        "solutions",
+        "public-sector",
+        "digital-transformation",
+        "public",
+        "sector",
+        "digital",
+        "transformation"
+    ],
+    "https://www.verizon.com/business/support/": [
+        "business",
+        "support"
+    ],
+    "https://www.verizon.com/support/residential/internet/connectivity/slow-speed?CMP=OLA_CON_OTH_22222_NA_20190215_NA_NM20190024_00001": [
+        "support",
+        "residential",
+        "internet",
+        "connectivity",
+        "slow-speed?CMP=OLA_CON_OTH_22222_NA_20190215_NA_NM20190024_00001",
+        "slow",
+        "speed?CMP=OLA_CON_OTH_22222_NA_20190215_NA_NM20190024_00001"
+    ],
+    "https://www.verizon.com/smartphones/apple-iphone-14-plus/": [
+        "smartphones",
+        "apple-iphone-14-plus",
+        "apple",
+        "iphone",
+        "14",
+        "plus"
+    ],
+    "https://www.verizon.com/stores/manage-appointments/": [
+        "stores",
+        "manage-appointments",
+        "manage",
+        "appointments"
+    ],
+    "https://www.verizon.com/solutions-and-services/in-store-pick-up": [
+        "solutions-and-services",
+        "in-store-pick-up",
+        "solutions",
+        "and",
+        "services",
+        "in",
+        "store",
+        "pick",
+        "up"
+    ],
+    "https://www.verizon.com/support/same-day-delivery-and-setup-faqs/": [
+        "support",
+        "same-day-delivery-and-setup-faqs",
+        "same",
+        "day",
+        "delivery",
+        "and",
+        "setup",
+        "faqs"
+    ],
+    "https://www.verizon.com/support/shipping-faqs/": [
+        "support",
+        "shipping-faqs",
+        "shipping",
+        "faqs"
+    ],
+    "https://www.verizon.com/smartphones/apple/?color=yellow+purple&amp;condition=new&amp;sort=best-sellers": [
+        "smartphones",
+        "apple",
+        "?color=yellow+purple&amp;condition=new&amp;sort=best-sellers",
+        "?color=yellow+purple&amp;condition=new&amp;sort=best",
+        "sellers"
+    ],
+    "https://www.verizon.com/smartphones/google-pixel-8/": [
+        "smartphones",
+        "google-pixel-8",
+        "google",
+        "pixel",
+        "8"
+    ],
+    "https://www.verizon.com/home/internet/?INI=vzw-shop-home-internet": [
+        "home",
+        "internet",
+        "?INI=vzw-shop-home-internet",
+        "?INI=vzw",
+        "shop",
+        "home",
+        "internet"
+    ],
+    "https://www.verizon.com/deals/iphone/": [
+        "deals",
+        "iphone"
+    ],
+    "https://www.verizon.com/smartphones/samsung-galaxy-z-flip5/": [
+        "smartphones",
+        "samsung-galaxy-z-flip5",
+        "samsung",
+        "galaxy",
+        "z",
+        "flip5"
+    ],
+    "https://www.verizon.com/smartphones/apple-iphone-12-certified-pre-owned/": [
+        "smartphones",
+        "apple-iphone-12-certified-pre-owned",
+        "apple",
+        "iphone",
+        "12",
+        "certified",
+        "pre",
+        "owned"
+    ],
+    "https://www.verizon.com/smartphones/samsung-galaxy-s21-plus-5g-certified-pre-owned/": [
+        "smartphones",
+        "samsung-galaxy-s21-plus-5g-certified-pre-owned",
+        "samsung",
+        "galaxy",
+        "s21",
+        "plus",
+        "5g",
+        "certified",
+        "pre",
+        "owned"
+    ],
+    "https://www.verizon.com/connected-smartwatches/verizon-gizmowatch-2/": [
+        "connected-smartwatches",
+        "verizon-gizmowatch-2",
+        "connected",
+        "smartwatches",
+        "verizon",
+        "gizmowatch",
+        "2"
+    ],
+    "https://www.verizon.com/support/glossary/": [
+        "support",
+        "glossary"
+    ],
+    "https://www.verizon.com/support/4g-sim-card-faqs/": [
+        "support",
+        "4g-sim-card-faqs",
+        "4g",
+        "sim",
+        "card",
+        "faqs"
+    ],
+    "https://www.verizon.com/support/esim-activation-instructions/": [
+        "support",
+        "esim-activation-instructions",
+        "esim",
+        "activation",
+        "instructions"
+    ],
+    "https://www.verizon.com/support/prepaid-family-account-faqs/": [
+        "support",
+        "prepaid-family-account-faqs",
+        "prepaid",
+        "family",
+        "account",
+        "faqs"
+    ],
+    "https://www.verizon.com/support/find-device-id-video/": [
+        "support",
+        "find-device-id-video",
+        "find",
+        "device",
+        "id",
+        "video"
+    ],
+    "https://www.verizon.com/support/local-number-portability-faqs/": [
+        "support",
+        "local-number-portability-faqs",
+        "local",
+        "number",
+        "portability",
+        "faqs"
+    ],
+    "https://www.verizon.com/smartphones/apple-iphone-se-2022/": [
+        "smartphones",
+        "apple-iphone-se-2022",
+        "apple",
+        "iphone",
+        "se",
+        "2022"
+    ],
+    "https://www.verizon.com/smartphones/apple-iphone-14/": [
+        "smartphones",
+        "apple-iphone-14",
+        "apple",
+        "iphone",
+        "14"
+    ],
+    "https://www.verizon.com/sales/nextgen/referafriend.html": [
+        "sales",
+        "nextgen",
+        "referafriend.html"
+    ]
+}

@@ -1,0 +1,12 @@
+
+saved : trained models(embeddings and index)
+
+Cannot upload embeddings model as it is around 500 MB in size.
+
+embeddings is a model trained on data scraped from all the routes in verizon website. 
+Open AI is fined tuned on verizon specific data scraped from all verizon links to answer verizon specific Q/A for the verizon bot.
+
+
+index is trained on all the routes specifically, 
+so when a user queries for a plan or product or services, a specific link of the related service/ product is provided to user 
+which eases the navigation for the user among 500+ routes available on verizon site.
