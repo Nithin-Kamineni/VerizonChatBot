@@ -22,17 +22,10 @@ const Chat = () => {
   const [formal, setFormal] = React.useState(5);
 
   // const [sliderValue, setSliderValue] = React.useState(50)
-
-
   const [messages, setMessages] = useState([
-    { from: "computer", text: "Hi, My Name is HoneyChat" },
-    { from: "me", text: "Hey there" },
-    { from: "me", text: "Myself Ferin Patel" },
-    {
-      from: "computer",
-      text:
-        "Nice to meet you. You can send me message and i'll reply you with same message."
-    }
+    { from: "computer", text: "Hi, My Name is VZ-ConnectBot" },
+    { from: "computer", text: "How can I help you today?" },
+
   ]);
 
   let {
@@ -62,13 +55,14 @@ const Chat = () => {
       //api call logic
       
       if(data.slice(0,4)==="http"){
-        setMessages((old) => [...old, { from: "computer", text: data, type:"image" }]);
+        setMessages((old) => [...old, { from: "computer", text: data.replace(/^User:\s*/, ''), type:"image" }]);
       } else{
         console.log("=============afsdf=========================")
-      
-        let response = await apiCall("query",{"data":data, "concise":concise, "friendly":friendly, "formal":formal});
+        // messages.push({ text: "Typing...", from: "bot" });
+        setMessages((old) => [...old, { from: "computer", text: "Typing..." }]);
+        let response = await apiCall("queryurls",{"data":data, "concise":concise, "friendly":friendly, "formal":formal});
         console.log(response);
-        setMessages((old) => [...old, { from: "computer", text: response.data }]);
+        setMessages((old) => [...old.slice(0,-1), { from: "computer", text: response.data }]);
         console.log("=============afsdf=========================")
       }
       results=[];
@@ -100,7 +94,7 @@ const Chat = () => {
       <Flex w={["100%", "100%", "40%"]} h="90%" flexDir="column">
         <Header />
         <Divider />
-        <Messages messages={messages} />
+        <Messages messages={messages}/>
         <Divider />
         <Footer
           inputMessage={inputMessage}

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { Avatar, Flex, Text } from "@chakra-ui/react";
-import { Image } from '@chakra-ui/react'
+import { Image } from '@chakra-ui/react';
 
 const Messages = ({ messages }) => {
   const AlwaysScrollToBottom = () => {

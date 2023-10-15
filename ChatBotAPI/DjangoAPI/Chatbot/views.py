@@ -35,3 +35,13 @@ def queryApi(request,id=0):
         req_data=JSONParser().parse(request)
         resp_data={"data": chatAImodel.AIChatResp(req_data["data"], req_data["concise"], req_data["friendly"], req_data["formal"])}
         return JsonResponse(resp_data,safe=False)
+
+@csrf_exempt
+def answer_question_view(request):
+    if request.method == 'POST':
+        req_data=JSONParser().parse(request)
+        response = chatAImodel.answer_question(req_data["data"], req_data["concise"], req_data["friendly"], req_data["formal"])
+        response_data = {'data': response}
+        return JsonResponse(response_data)
+    else:
+        return JsonResponse({'error': 'Invalid request method'})
